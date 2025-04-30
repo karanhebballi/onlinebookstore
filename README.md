@@ -140,6 +140,7 @@ Note:- Considering this as a Sample Project, we have not much considered of web 
 
 <bold>Thanks a lot,</bold><br/>
  #text-1
+ #text-2
                                                                                                         
                                                                                                     Project Leader<br/>
                                                                                                          <b>Shashi Raj</b>
